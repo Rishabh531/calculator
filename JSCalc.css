@@ -1,0 +1,43 @@
+.container{
+    text-align: center;
+    margin-top:23px
+}
+
+table{
+    margin: auto;
+}
+
+input{
+    background-color:lightslategrey;
+    border-radius: 40px;
+    border: 3px solid red;
+    font-size: 50px;
+    height: 60px;
+    width: 450px;
+    padding: 25px 10px 25px;
+    margin-bottom: 15px;
+}
+
+button{
+    border-radius: 60px;
+    font-size: 50px;
+    background: yellow;
+    border: 3px solid red;
+    width: 102px;
+    height: 90px;
+    margin: 6px;
+}
+
+.calculator{ 
+    border: 3px solid red;
+    background-color: black;
+    padding: 27px;
+    border-radius: 70px;
+    display: inline-block;
+    
+}
+
+h1{
+    font-size: 40px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
